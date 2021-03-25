@@ -1,2 +1,2 @@
 # Tibiazera
-Training project using Tibia API
+Training mobile project using Tibia API
